@@ -39,6 +39,5 @@ package.json
 vite.config.js
 /public/favicon.ico
 .firebase/
-.github/
 .firebaserc
 firebase.json
