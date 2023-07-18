@@ -8,6 +8,7 @@
             숫자 세기: {{ count }}
         </button>
         <Side></Side>
+        <p>우하하하 소라짱</p>
     </div>
 </template>
 
