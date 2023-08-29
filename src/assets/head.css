@@ -1,0 +1,5 @@
+.header-cont{width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;}
+.header-logo{display: flex;align-items:center;justify-content: center;max-width:150px;min-width:150px;height:40px;text-align:center}
+.nav-menu {width: calc(100% - 150px);height:40px;display:flex;align-items:center;justify-content:flex-end;}
+.nav-menu ul {display:block;}
+.nav-menu ul li {list-style:none;display:inline-block;margin:0 20px}
